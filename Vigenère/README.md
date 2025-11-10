@@ -43,7 +43,7 @@ Repeating this for all 10 letters:
 
 → Key = `BAMBO`
 
-> 📎 **Screenshot suggestion**: Add a cropped image of the [Bibmath Vigenère table](https://www.bibmath.net/crypto/images/vigenere.gif) with annotations showing one or two letter mappings.
+> 📎  ![Vigenère Table Example](Screenshot_11)
 
 ---
 
