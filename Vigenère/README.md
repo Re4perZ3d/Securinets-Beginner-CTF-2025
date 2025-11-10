@@ -43,7 +43,7 @@ Repeating this for all 10 letters:
 
 → Key = `BAMBO`
 
-> 📎  ![Vigenère Table Example](Screenshot_11)
+> 📎  ![Vigenère Table Example](Screenshot_11.png)
 
 ---
 
